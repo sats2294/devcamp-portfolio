@@ -2,22 +2,21 @@
 
 Changed content
 
-Things you may want to cover:
+### features
 
-* Ruby version
+- Real time chat
+- Blog
+- Portfolio
+- Drag and drop
 
-* System dependencies
+### Code Example
 
-* Configuration
+``` ruby
+def my_great_method
+	puts "Here it is"
+end
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+``` javascript
+alert("Hi there");
+```
